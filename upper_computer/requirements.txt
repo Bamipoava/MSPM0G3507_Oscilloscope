@@ -1,0 +1,5 @@
+# MSPM0G3507 简易示波器上位机 依赖
+PyQt6>=6.5.0
+pyqtgraph>=0.13.0
+pyserial>=3.5
+numpy>=1.24.0
